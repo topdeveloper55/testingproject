@@ -1,0 +1,26 @@
+:root{
+  --imageBack: rgb(250, 250, 250);
+  --claimDiscount: rgb(88, 174, 67);
+  --proRadius:rgb(45, 128, 246);
+  --check:rgb(60, 126, 220);
+  --fontBlue:rgb(56, 121, 215);
+  --proBack:rgb(236, 243, 251);
+  --proFont:rgb(79, 120, 182);
+  --menuBar:rgb(38, 47, 62);
+  --percentWidth:80%;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
